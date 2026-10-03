@@ -4,22 +4,15 @@
 
 ## 安装与使用
 
-将完整仓库放进 Codex 的个人技能目录，并将文件夹命名为 `visual-aesthetics`。
+### 让 agent 安装（推荐）
 
-macOS / Linux：
+直接告诉你的 agent：
 
-```bash
-git clone https://github.com/non-convex/visual-aesthetics-skill.git "${CODEX_HOME:-$HOME/.codex}/skills/visual-aesthetics"
+```text
+帮我安装这个 skill：https://github.com/non-convex/visual-aesthetics
 ```
 
-Windows PowerShell：
-
-```powershell
-$skillHome = if ($env:CODEX_HOME) { $env:CODEX_HOME } else { Join-Path $env:USERPROFILE '.codex' }
-git clone https://github.com/non-convex/visual-aesthetics-skill.git (Join-Path $skillHome 'skills/visual-aesthetics')
-```
-
-如果目标目录已存在，请先确认其中是否有自己的修改，再决定如何更新。其他支持 `SKILL.md` 的 agent，可按其技能加载方式安装整个目录。
+### 使用示例
 
 在支持技能调用的环境里，可以在任务中明确写出 `$visual-aesthetics`，例如：
 
@@ -32,6 +25,28 @@ git clone https://github.com/non-convex/visual-aesthetics-skill.git (Join-Path $
 ```
 
 本技能提供判断方法与教材，不附带图像生成、网页开发或文档制作工具；实际创作使用所在 agent 环境已有的工具。
+
+<details>
+<summary>手动安装</summary>
+
+将完整仓库放进 Codex 的个人技能目录，并将文件夹命名为 `visual-aesthetics`。
+
+macOS / Linux：
+
+```bash
+git clone https://github.com/non-convex/visual-aesthetics.git "${CODEX_HOME:-$HOME/.codex}/skills/visual-aesthetics"
+```
+
+Windows PowerShell：
+
+```powershell
+$skillHome = if ($env:CODEX_HOME) { $env:CODEX_HOME } else { Join-Path $env:USERPROFILE '.codex' }
+git clone https://github.com/non-convex/visual-aesthetics.git (Join-Path $skillHome 'skills/visual-aesthetics')
+```
+
+如果目标目录已存在，请先确认其中是否有自己的修改，再决定如何更新。其他支持 `SKILL.md` 的 agent，可按其技能加载方式安装整个目录。
+
+</details>
 
 ## 入口与阅读
 
