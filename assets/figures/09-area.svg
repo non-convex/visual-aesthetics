@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1240" height="750" viewBox="0 0 1240 750" role="img"><title>面积表示数值时，半径不能直接照数值放大</title><desc>数值从 1 变为 4：面积应变为四倍，因此半径变为两倍。</desc>
+<rect width="100%" height="100%" fill="#fff"/>
+<text x="44" y="44" font-family="Noto Sans CJK SC, sans-serif" font-size="16" font-weight="400" text-anchor="start" fill="#5c626b">视觉关系  09</text>
+<text x="44" y="89" font-family="Noto Sans CJK SC, sans-serif" font-size="30" font-weight="700" text-anchor="start" fill="#202329">面积表示数值时，半径不能直接照数值放大</text>
+<text x="44" y="123" font-family="Noto Sans CJK SC, sans-serif" font-size="17" font-weight="400" text-anchor="start" fill="#5c626b">数值从 1 变为 4：面积应变为四倍，因此半径变为两倍。</text>
+<text x="52" y="202" font-family="Noto Sans CJK SC, sans-serif" font-size="23" font-weight="700" text-anchor="start" fill="#202329">面积编码</text>
+<text x="676" y="202" font-family="Noto Sans CJK SC, sans-serif" font-size="23" font-weight="700" text-anchor="start" fill="#202329">把半径误当数值</text>
+<line x1="620" y1="180" x2="620" y2="638" stroke="#c5cbd2" stroke-width="1"/>
+<circle cx="155" cy="374" r="30" fill="#202329"/>
+<text x="155" y="447" font-family="Noto Sans CJK SC, sans-serif" font-size="20" font-weight="400" text-anchor="middle" fill="#202329">数值 1</text>
+<circle cx="415" cy="374" r="60" fill="#202329"/>
+<text x="415" y="477" font-family="Noto Sans CJK SC, sans-serif" font-size="20" font-weight="400" text-anchor="middle" fill="#202329">数值 4</text>
+<circle cx="765" cy="374" r="30" fill="#202329"/>
+<text x="765" y="447" font-family="Noto Sans CJK SC, sans-serif" font-size="20" font-weight="400" text-anchor="middle" fill="#202329">数值 1</text>
+<circle cx="1056" cy="374" r="120" fill="#202329"/>
+<text x="1056" y="537" font-family="Noto Sans CJK SC, sans-serif" font-size="20" font-weight="400" text-anchor="middle" fill="#202329">数值 4</text>
+<text x="155" y="530" font-family="Noto Sans CJK SC, sans-serif" font-size="22" font-weight="400" text-anchor="middle" fill="#202329">r</text>
+<text x="415" y="530" font-family="Noto Sans CJK SC, sans-serif" font-size="22" font-weight="400" text-anchor="middle" fill="#202329">2r</text>
+<text x="765" y="582" font-family="Noto Sans CJK SC, sans-serif" font-size="22" font-weight="400" text-anchor="middle" fill="#202329">r</text>
+<text x="1056" y="582" font-family="Noto Sans CJK SC, sans-serif" font-size="22" font-weight="400" text-anchor="middle" fill="#202329">4r</text>
+<text x="304" y="598" font-family="Noto Sans CJK SC, sans-serif" font-size="24" font-weight="700" text-anchor="middle" fill="#202329">面积比 1 : 4</text>
+<text x="927" y="619" font-family="Noto Sans CJK SC, sans-serif" font-size="24" font-weight="700" text-anchor="middle" fill="#202329">实际面积比 1 : 16</text>
+<line x1="44" y1="689" x2="1196" y2="689" stroke="#c5cbd2" stroke-width="1"/>
+<text x="44" y="722" font-family="Noto Sans CJK SC, sans-serif" font-size="16" font-weight="400" text-anchor="start" fill="#5c626b">因为圆面积 A = πr²；这里解释数量映射，不声称人眼能精确估计圆面积。</text>
+</svg>

@@ -1,0 +1,50 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="720" viewBox="0 0 1200 720" role="img"><title>间隔改变分组</title><desc>每行都是 12 个同样的圆点。大小、颜色、数量、总跨度保持一致。</desc>
+<rect width="100%" height="100%" fill="#fff"/>
+<text x="44" y="44" font-family="Noto Sans CJK SC, sans-serif" font-size="16" font-weight="400" text-anchor="start" fill="#5c626b">视觉关系  01</text>
+<text x="44" y="89" font-family="Noto Sans CJK SC, sans-serif" font-size="30" font-weight="700" text-anchor="start" fill="#202329">间隔改变分组</text>
+<text x="44" y="123" font-family="Noto Sans CJK SC, sans-serif" font-size="17" font-weight="400" text-anchor="start" fill="#5c626b">每行都是 12 个同样的圆点。大小、颜色、数量、总跨度保持一致。</text>
+<text x="44" y="230" font-family="Noto Sans CJK SC, sans-serif" font-size="22" font-weight="700" text-anchor="start" fill="#202329">间隔全部相等</text>
+<circle cx="330" cy="225" r="11" fill="#202329"/>
+<circle cx="400.0" cy="225" r="11" fill="#202329"/>
+<circle cx="470.0" cy="225" r="11" fill="#202329"/>
+<circle cx="540.0" cy="225" r="11" fill="#202329"/>
+<circle cx="610.0" cy="225" r="11" fill="#202329"/>
+<circle cx="680.0" cy="225" r="11" fill="#202329"/>
+<circle cx="750.0" cy="225" r="11" fill="#202329"/>
+<circle cx="820.0" cy="225" r="11" fill="#202329"/>
+<circle cx="890.0" cy="225" r="11" fill="#202329"/>
+<circle cx="960.0" cy="225" r="11" fill="#202329"/>
+<circle cx="1030.0" cy="225" r="11" fill="#202329"/>
+<circle cx="1100.0" cy="225" r="11" fill="#202329"/>
+<text x="330" y="278" font-family="Noto Sans CJK SC, sans-serif" font-size="17" font-weight="400" text-anchor="start" fill="#5c626b">没有明显的组内／组间差别</text>
+<text x="44" y="383" font-family="Noto Sans CJK SC, sans-serif" font-size="22" font-weight="700" text-anchor="start" fill="#202329">三组，每组四个</text>
+<circle cx="330" cy="378" r="11" fill="#202329"/>
+<circle cx="381.3333333333333" cy="378" r="11" fill="#202329"/>
+<circle cx="432.66666666666663" cy="378" r="11" fill="#202329"/>
+<circle cx="483.99999999999994" cy="378" r="11" fill="#202329"/>
+<circle cx="638.0" cy="378" r="11" fill="#202329"/>
+<circle cx="689.3333333333334" cy="378" r="11" fill="#202329"/>
+<circle cx="740.6666666666667" cy="378" r="11" fill="#202329"/>
+<circle cx="792.0000000000001" cy="378" r="11" fill="#202329"/>
+<circle cx="946.0000000000001" cy="378" r="11" fill="#202329"/>
+<circle cx="997.3333333333335" cy="378" r="11" fill="#202329"/>
+<circle cx="1048.6666666666667" cy="378" r="11" fill="#202329"/>
+<circle cx="1100.0" cy="378" r="11" fill="#202329"/>
+<text x="330" y="431" font-family="Noto Sans CJK SC, sans-serif" font-size="17" font-weight="400" text-anchor="start" fill="#5c626b">组内较近，组与组之间较远</text>
+<text x="44" y="536" font-family="Noto Sans CJK SC, sans-serif" font-size="22" font-weight="700" text-anchor="start" fill="#202329">四组，每组三个</text>
+<circle cx="330" cy="531" r="11" fill="#202329"/>
+<circle cx="375.29411764705884" cy="531" r="11" fill="#202329"/>
+<circle cx="420.5882352941177" cy="531" r="11" fill="#202329"/>
+<circle cx="556.4705882352941" cy="531" r="11" fill="#202329"/>
+<circle cx="601.7647058823529" cy="531" r="11" fill="#202329"/>
+<circle cx="647.0588235294117" cy="531" r="11" fill="#202329"/>
+<circle cx="782.9411764705882" cy="531" r="11" fill="#202329"/>
+<circle cx="828.235294117647" cy="531" r="11" fill="#202329"/>
+<circle cx="873.5294117647057" cy="531" r="11" fill="#202329"/>
+<circle cx="1009.4117647058822" cy="531" r="11" fill="#202329"/>
+<circle cx="1054.705882352941" cy="531" r="11" fill="#202329"/>
+<circle cx="1099.9999999999998" cy="531" r="11" fill="#202329"/>
+<text x="330" y="584" font-family="Noto Sans CJK SC, sans-serif" font-size="17" font-weight="400" text-anchor="start" fill="#5c626b">只改变较大空隙出现的位置</text>
+<line x1="44" y1="659" x2="1156" y2="659" stroke="#c5cbd2" stroke-width="1"/>
+<text x="44" y="692" font-family="Noto Sans CJK SC, sans-serif" font-size="16" font-weight="400" text-anchor="start" fill="#5c626b">距离用于表达关系；并不是间距越大、组数越多就越好。</text>
+</svg>

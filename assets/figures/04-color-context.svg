@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="670" viewBox="0 0 1200 670" role="img"><title>同一颜色，换一个背景</title><desc>两个中心方块的数值完全相同：sRGB #808080；大小也相同。</desc>
+<rect width="100%" height="100%" fill="#fff"/>
+<text x="44" y="44" font-family="Noto Sans CJK SC, sans-serif" font-size="16" font-weight="400" text-anchor="start" fill="#5c626b">视觉关系  04</text>
+<text x="44" y="89" font-family="Noto Sans CJK SC, sans-serif" font-size="30" font-weight="700" text-anchor="start" fill="#202329">同一颜色，换一个背景</text>
+<text x="44" y="123" font-family="Noto Sans CJK SC, sans-serif" font-size="17" font-weight="400" text-anchor="start" fill="#5c626b">两个中心方块的数值完全相同：sRGB #808080；大小也相同。</text>
+<rect x="65" y="180" width="495" height="315" fill="#eeeeee"/>
+<rect x="240" y="267" width="145" height="145" fill="#808080"/>
+<rect x="640" y="180" width="495" height="315" fill="#202020"/>
+<rect x="815" y="267" width="145" height="145" fill="#808080"/>
+<text x="310" y="543" font-family="Noto Sans CJK SC, sans-serif" font-size="22" font-weight="400" text-anchor="middle" fill="#202329">浅背景中的同一灰</text>
+<text x="887" y="543" font-family="Noto Sans CJK SC, sans-serif" font-size="22" font-weight="400" text-anchor="middle" fill="#202329">深背景中的同一灰</text>
+<line x1="44" y1="609" x2="1156" y2="609" stroke="#c5cbd2" stroke-width="1"/>
+<text x="44" y="642" font-family="Noto Sans CJK SC, sans-serif" font-size="16" font-weight="400" text-anchor="start" fill="#5c626b">先直接比较中心灰的视觉感受，再查看色号；显示条件和观看者会影响具体感受。</text>
+</svg>

@@ -1,0 +1,102 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1450" height="760" viewBox="0 0 1450 760" role="img"><title>多页设计要比较一串页面</title><desc>每行使用相同的三张图与六段文字，只改变顺序和相遇的页面。</desc>
+<rect width="100%" height="100%" fill="#fff"/>
+<text x="44" y="44" font-family="Noto Sans CJK SC, sans-serif" font-size="16" font-weight="400" text-anchor="start" fill="#5c626b">视觉关系  05</text>
+<text x="44" y="89" font-family="Noto Sans CJK SC, sans-serif" font-size="30" font-weight="700" text-anchor="start" fill="#202329">多页设计要比较一串页面</text>
+<text x="44" y="123" font-family="Noto Sans CJK SC, sans-serif" font-size="17" font-weight="400" text-anchor="start" fill="#5c626b">每行使用相同的三张图与六段文字，只改变顺序和相遇的页面。</text>
+<text x="44" y="270" font-family="Noto Sans CJK SC, sans-serif" font-size="35" font-weight="700" text-anchor="start" fill="#202329">A</text>
+<rect x="150" y="196" width="180" height="190" fill="#ffffff" stroke="#c5cbd2" stroke-width="1.4"/>
+<rect x="199.0" y="219.0" width="82" height="144" fill="#202329"/>
+<text x="162" y="410" font-family="Noto Sans CJK SC, sans-serif" font-size="15" font-weight="400" text-anchor="start" fill="#5c626b">图 1</text>
+<rect x="349" y="196" width="180" height="190" fill="#ffffff" stroke="#c5cbd2" stroke-width="1.4"/>
+<line x1="368" y1="221" x2="503" y2="221" stroke="#202329" stroke-width="2"/>
+<line x1="368" y1="232" x2="503" y2="232" stroke="#202329" stroke-width="2"/>
+<line x1="368" y1="243" x2="503" y2="243" stroke="#202329" stroke-width="2"/>
+<line x1="368" y1="254" x2="503" y2="254" stroke="#202329" stroke-width="2"/>
+<line x1="368" y1="265" x2="481" y2="265" stroke="#202329" stroke-width="2"/>
+<line x1="368" y1="305" x2="503" y2="305" stroke="#202329" stroke-width="2"/>
+<line x1="368" y1="316" x2="503" y2="316" stroke="#202329" stroke-width="2"/>
+<line x1="368" y1="327" x2="503" y2="327" stroke="#202329" stroke-width="2"/>
+<line x1="368" y1="338" x2="503" y2="338" stroke="#202329" stroke-width="2"/>
+<line x1="368" y1="349" x2="481" y2="349" stroke="#202329" stroke-width="2"/>
+<text x="361" y="410" font-family="Noto Sans CJK SC, sans-serif" font-size="15" font-weight="400" text-anchor="start" fill="#5c626b">两段文字</text>
+<rect x="565" y="196" width="180" height="190" fill="#ffffff" stroke="#c5cbd2" stroke-width="1.4"/>
+<rect x="580.0" y="249.0" width="150" height="84" fill="#202329"/>
+<text x="577" y="410" font-family="Noto Sans CJK SC, sans-serif" font-size="15" font-weight="400" text-anchor="start" fill="#5c626b">图 2</text>
+<rect x="764" y="196" width="180" height="190" fill="#ffffff" stroke="#c5cbd2" stroke-width="1.4"/>
+<line x1="783" y1="221" x2="918" y2="221" stroke="#202329" stroke-width="2"/>
+<line x1="783" y1="232" x2="918" y2="232" stroke="#202329" stroke-width="2"/>
+<line x1="783" y1="243" x2="918" y2="243" stroke="#202329" stroke-width="2"/>
+<line x1="783" y1="254" x2="918" y2="254" stroke="#202329" stroke-width="2"/>
+<line x1="783" y1="265" x2="896" y2="265" stroke="#202329" stroke-width="2"/>
+<line x1="783" y1="305" x2="918" y2="305" stroke="#202329" stroke-width="2"/>
+<line x1="783" y1="316" x2="918" y2="316" stroke="#202329" stroke-width="2"/>
+<line x1="783" y1="327" x2="918" y2="327" stroke="#202329" stroke-width="2"/>
+<line x1="783" y1="338" x2="918" y2="338" stroke="#202329" stroke-width="2"/>
+<line x1="783" y1="349" x2="896" y2="349" stroke="#202329" stroke-width="2"/>
+<text x="776" y="410" font-family="Noto Sans CJK SC, sans-serif" font-size="15" font-weight="400" text-anchor="start" fill="#5c626b">两段文字</text>
+<rect x="980" y="196" width="180" height="190" fill="#ffffff" stroke="#c5cbd2" stroke-width="1.4"/>
+<rect x="1039.0" y="260.0" width="62" height="62" fill="#202329"/>
+<text x="992" y="410" font-family="Noto Sans CJK SC, sans-serif" font-size="15" font-weight="400" text-anchor="start" fill="#5c626b">图 3</text>
+<rect x="1179" y="196" width="180" height="190" fill="#ffffff" stroke="#c5cbd2" stroke-width="1.4"/>
+<line x1="1198" y1="221" x2="1333" y2="221" stroke="#202329" stroke-width="2"/>
+<line x1="1198" y1="232" x2="1333" y2="232" stroke="#202329" stroke-width="2"/>
+<line x1="1198" y1="243" x2="1333" y2="243" stroke="#202329" stroke-width="2"/>
+<line x1="1198" y1="254" x2="1333" y2="254" stroke="#202329" stroke-width="2"/>
+<line x1="1198" y1="265" x2="1311" y2="265" stroke="#202329" stroke-width="2"/>
+<line x1="1198" y1="305" x2="1333" y2="305" stroke="#202329" stroke-width="2"/>
+<line x1="1198" y1="316" x2="1333" y2="316" stroke="#202329" stroke-width="2"/>
+<line x1="1198" y1="327" x2="1333" y2="327" stroke="#202329" stroke-width="2"/>
+<line x1="1198" y1="338" x2="1333" y2="338" stroke="#202329" stroke-width="2"/>
+<line x1="1198" y1="349" x2="1311" y2="349" stroke="#202329" stroke-width="2"/>
+<text x="1191" y="410" font-family="Noto Sans CJK SC, sans-serif" font-size="15" font-weight="400" text-anchor="start" fill="#5c626b">两段文字</text>
+<text x="44" y="304" font-family="Noto Sans CJK SC, sans-serif" font-size="18" font-weight="400" text-anchor="start" fill="#5c626b">交替</text>
+<text x="44" y="546" font-family="Noto Sans CJK SC, sans-serif" font-size="35" font-weight="700" text-anchor="start" fill="#202329">B</text>
+<rect x="150" y="472" width="180" height="190" fill="#ffffff" stroke="#c5cbd2" stroke-width="1.4"/>
+<rect x="199.0" y="495.0" width="82" height="144" fill="#202329"/>
+<text x="162" y="686" font-family="Noto Sans CJK SC, sans-serif" font-size="15" font-weight="400" text-anchor="start" fill="#5c626b">图 1</text>
+<rect x="349" y="472" width="180" height="190" fill="#ffffff" stroke="#c5cbd2" stroke-width="1.4"/>
+<rect x="364.0" y="525.0" width="150" height="84" fill="#202329"/>
+<text x="361" y="686" font-family="Noto Sans CJK SC, sans-serif" font-size="15" font-weight="400" text-anchor="start" fill="#5c626b">图 2</text>
+<rect x="565" y="472" width="180" height="190" fill="#ffffff" stroke="#c5cbd2" stroke-width="1.4"/>
+<line x1="584" y1="497" x2="719" y2="497" stroke="#202329" stroke-width="2"/>
+<line x1="584" y1="508" x2="719" y2="508" stroke="#202329" stroke-width="2"/>
+<line x1="584" y1="519" x2="719" y2="519" stroke="#202329" stroke-width="2"/>
+<line x1="584" y1="530" x2="719" y2="530" stroke="#202329" stroke-width="2"/>
+<line x1="584" y1="541" x2="697" y2="541" stroke="#202329" stroke-width="2"/>
+<line x1="584" y1="581" x2="719" y2="581" stroke="#202329" stroke-width="2"/>
+<line x1="584" y1="592" x2="719" y2="592" stroke="#202329" stroke-width="2"/>
+<line x1="584" y1="603" x2="719" y2="603" stroke="#202329" stroke-width="2"/>
+<line x1="584" y1="614" x2="719" y2="614" stroke="#202329" stroke-width="2"/>
+<line x1="584" y1="625" x2="697" y2="625" stroke="#202329" stroke-width="2"/>
+<text x="577" y="686" font-family="Noto Sans CJK SC, sans-serif" font-size="15" font-weight="400" text-anchor="start" fill="#5c626b">两段文字</text>
+<rect x="764" y="472" width="180" height="190" fill="#ffffff" stroke="#c5cbd2" stroke-width="1.4"/>
+<line x1="783" y1="497" x2="918" y2="497" stroke="#202329" stroke-width="2"/>
+<line x1="783" y1="508" x2="918" y2="508" stroke="#202329" stroke-width="2"/>
+<line x1="783" y1="519" x2="918" y2="519" stroke="#202329" stroke-width="2"/>
+<line x1="783" y1="530" x2="918" y2="530" stroke="#202329" stroke-width="2"/>
+<line x1="783" y1="541" x2="896" y2="541" stroke="#202329" stroke-width="2"/>
+<line x1="783" y1="581" x2="918" y2="581" stroke="#202329" stroke-width="2"/>
+<line x1="783" y1="592" x2="918" y2="592" stroke="#202329" stroke-width="2"/>
+<line x1="783" y1="603" x2="918" y2="603" stroke="#202329" stroke-width="2"/>
+<line x1="783" y1="614" x2="918" y2="614" stroke="#202329" stroke-width="2"/>
+<line x1="783" y1="625" x2="896" y2="625" stroke="#202329" stroke-width="2"/>
+<text x="776" y="686" font-family="Noto Sans CJK SC, sans-serif" font-size="15" font-weight="400" text-anchor="start" fill="#5c626b">两段文字</text>
+<rect x="980" y="472" width="180" height="190" fill="#ffffff" stroke="#c5cbd2" stroke-width="1.4"/>
+<rect x="1039.0" y="536.0" width="62" height="62" fill="#202329"/>
+<text x="992" y="686" font-family="Noto Sans CJK SC, sans-serif" font-size="15" font-weight="400" text-anchor="start" fill="#5c626b">图 3</text>
+<rect x="1179" y="472" width="180" height="190" fill="#ffffff" stroke="#c5cbd2" stroke-width="1.4"/>
+<line x1="1198" y1="497" x2="1333" y2="497" stroke="#202329" stroke-width="2"/>
+<line x1="1198" y1="508" x2="1333" y2="508" stroke="#202329" stroke-width="2"/>
+<line x1="1198" y1="519" x2="1333" y2="519" stroke="#202329" stroke-width="2"/>
+<line x1="1198" y1="530" x2="1333" y2="530" stroke="#202329" stroke-width="2"/>
+<line x1="1198" y1="541" x2="1311" y2="541" stroke="#202329" stroke-width="2"/>
+<line x1="1198" y1="581" x2="1333" y2="581" stroke="#202329" stroke-width="2"/>
+<line x1="1198" y1="592" x2="1333" y2="592" stroke="#202329" stroke-width="2"/>
+<line x1="1198" y1="603" x2="1333" y2="603" stroke="#202329" stroke-width="2"/>
+<line x1="1198" y1="614" x2="1333" y2="614" stroke="#202329" stroke-width="2"/>
+<line x1="1198" y1="625" x2="1311" y2="625" stroke="#202329" stroke-width="2"/>
+<text x="1191" y="686" font-family="Noto Sans CJK SC, sans-serif" font-size="15" font-weight="400" text-anchor="start" fill="#5c626b">两段文字</text>
+<text x="44" y="580" font-family="Noto Sans CJK SC, sans-serif" font-size="18" font-weight="400" text-anchor="start" fill="#5c626b">聚集</text>
+<line x1="44" y1="699" x2="1406" y2="699" stroke="#c5cbd2" stroke-width="1"/>
+<text x="44" y="732" font-family="Noto Sans CJK SC, sans-serif" font-size="16" font-weight="400" text-anchor="start" fill="#5c626b">A 反复在图与文间切换；B 先形成图像并置，再连续阅读。两种节奏都可能适用。</text>
+</svg>

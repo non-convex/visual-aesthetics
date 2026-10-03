@@ -1,0 +1,62 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1320" height="1030" viewBox="0 0 1320 1030" role="img"><title>字距、字偶与行距解决不同问题</title><desc>以下是放大的间距示意；用同一组字形，不把字体名称作为设计建议。</desc>
+<rect width="100%" height="100%" fill="#fff"/>
+<text x="44" y="44" font-family="Noto Sans CJK SC, sans-serif" font-size="16" font-weight="400" text-anchor="start" fill="#5c626b">视觉关系  03</text>
+<text x="44" y="89" font-family="Noto Sans CJK SC, sans-serif" font-size="30" font-weight="700" text-anchor="start" fill="#202329">字距、字偶与行距解决不同问题</text>
+<text x="44" y="123" font-family="Noto Sans CJK SC, sans-serif" font-size="17" font-weight="400" text-anchor="start" fill="#5c626b">以下是放大的间距示意；用同一组字形，不把字体名称作为设计建议。</text>
+<line x1="44" y1="178" x2="1276" y2="178" stroke="#c5cbd2" stroke-width="1"/>
+<line x1="44" y1="360" x2="1276" y2="360" stroke="#c5cbd2" stroke-width="1"/>
+<line x1="44" y1="565" x2="1276" y2="565" stroke="#c5cbd2" stroke-width="1"/>
+<text x="44" y="208" font-family="Noto Sans CJK SC, sans-serif" font-size="23" font-weight="700" text-anchor="start" fill="#202329">整体字距</text>
+<text x="350" y="202" font-family="Noto Sans CJK SC, sans-serif" font-size="18" font-weight="400" text-anchor="start" fill="#5c626b">较紧</text>
+<text x="825" y="202" font-family="Noto Sans CJK SC, sans-serif" font-size="18" font-weight="400" text-anchor="start" fill="#5c626b">较松</text>
+<text x="350" y="283" font-family="DejaVu Sans, sans-serif" font-size="66" font-weight="700" fill="#202329">A</text>
+<text x="398" y="283" font-family="DejaVu Sans, sans-serif" font-size="66" font-weight="700" fill="#202329">V</text>
+<text x="446" y="283" font-family="DejaVu Sans, sans-serif" font-size="66" font-weight="700" fill="#202329">A</text>
+<text x="494" y="283" font-family="DejaVu Sans, sans-serif" font-size="66" font-weight="700" fill="#202329">T</text>
+<text x="542" y="283" font-family="DejaVu Sans, sans-serif" font-size="66" font-weight="700" fill="#202329">A</text>
+<text x="590" y="283" font-family="DejaVu Sans, sans-serif" font-size="66" font-weight="700" fill="#202329">R</text>
+<text x="825" y="283" font-family="DejaVu Sans, sans-serif" font-size="66" font-weight="700" fill="#202329">A</text>
+<text x="891" y="283" font-family="DejaVu Sans, sans-serif" font-size="66" font-weight="700" fill="#202329">V</text>
+<text x="957" y="283" font-family="DejaVu Sans, sans-serif" font-size="66" font-weight="700" fill="#202329">A</text>
+<text x="1023" y="283" font-family="DejaVu Sans, sans-serif" font-size="66" font-weight="700" fill="#202329">T</text>
+<text x="1089" y="283" font-family="DejaVu Sans, sans-serif" font-size="66" font-weight="700" fill="#202329">A</text>
+<text x="1155" y="283" font-family="DejaVu Sans, sans-serif" font-size="66" font-weight="700" fill="#202329">R</text>
+<text x="350" y="323" font-family="Noto Sans CJK SC, sans-serif" font-size="18" font-weight="400" text-anchor="start" fill="#5c626b">相邻字的总体推进距离改变。</text>
+<text x="44" y="390" font-family="Noto Sans CJK SC, sans-serif" font-size="23" font-weight="700" text-anchor="start" fill="#202329">局部字偶</text>
+<text x="350" y="388" font-family="Noto Sans CJK SC, sans-serif" font-size="18" font-weight="400" text-anchor="start" fill="#5c626b">A 与 V 之间有额外空洞</text>
+<text x="825" y="388" font-family="Noto Sans CJK SC, sans-serif" font-size="18" font-weight="400" text-anchor="start" fill="#5c626b">只调整这一对</text>
+<text x="350" y="468" font-family="DejaVu Sans, sans-serif" font-size="66" font-weight="700" fill="#202329">A</text>
+<text x="428" y="468" font-family="DejaVu Sans, sans-serif" font-size="66" font-weight="700" fill="#202329">V</text>
+<text x="476" y="468" font-family="DejaVu Sans, sans-serif" font-size="66" font-weight="700" fill="#202329">A</text>
+<text x="524" y="468" font-family="DejaVu Sans, sans-serif" font-size="66" font-weight="700" fill="#202329">T</text>
+<text x="572" y="468" font-family="DejaVu Sans, sans-serif" font-size="66" font-weight="700" fill="#202329">A</text>
+<text x="620" y="468" font-family="DejaVu Sans, sans-serif" font-size="66" font-weight="700" fill="#202329">R</text>
+<text x="825" y="468" font-family="DejaVu Sans, sans-serif" font-size="66" font-weight="700" fill="#202329">A</text>
+<text x="873" y="468" font-family="DejaVu Sans, sans-serif" font-size="66" font-weight="700" fill="#202329">V</text>
+<text x="921" y="468" font-family="DejaVu Sans, sans-serif" font-size="66" font-weight="700" fill="#202329">A</text>
+<text x="969" y="468" font-family="DejaVu Sans, sans-serif" font-size="66" font-weight="700" fill="#202329">T</text>
+<text x="1017" y="468" font-family="DejaVu Sans, sans-serif" font-size="66" font-weight="700" fill="#202329">A</text>
+<text x="1065" y="468" font-family="DejaVu Sans, sans-serif" font-size="66" font-weight="700" fill="#202329">R</text>
+<line x1="400" y1="481" x2="426" y2="481" stroke="#202329" stroke-width="3"/>
+<text x="350" y="520" font-family="Noto Sans CJK SC, sans-serif" font-size="18" font-weight="400" text-anchor="start" fill="#5c626b">后面的字随之移动，但 V 之后的内部间隔不变。</text>
+<text x="44" y="595" font-family="Noto Sans CJK SC, sans-serif" font-size="23" font-weight="700" text-anchor="start" fill="#202329">行距</text>
+<text x="350" y="595" font-family="Noto Sans CJK SC, sans-serif" font-size="18" font-weight="400" text-anchor="start" fill="#5c626b">较远的基线</text>
+<text x="825" y="595" font-family="Noto Sans CJK SC, sans-serif" font-size="18" font-weight="400" text-anchor="start" fill="#5c626b">较近的基线</text>
+<line x1="340" y1="686" x2="688" y2="686" stroke="#c5cbd2" stroke-width="1" stroke-dasharray="7 5"/>
+<text x="350" y="685" font-family="Noto Sans CJK SC, sans-serif" font-size="57" font-weight="700" text-anchor="start" fill="#202329">回声</text>
+<line x1="340" y1="817" x2="688" y2="817" stroke="#c5cbd2" stroke-width="1" stroke-dasharray="7 5"/>
+<text x="350" y="816" font-family="Noto Sans CJK SC, sans-serif" font-size="57" font-weight="700" text-anchor="start" fill="#202329">Echo</text>
+<line x1="705" y1="686" x2="705" y2="817" stroke="#202329" stroke-width="1"/>
+<line x1="698" y1="686" x2="712" y2="686" stroke="#202329" stroke-width="1"/>
+<line x1="698" y1="817" x2="712" y2="817" stroke="#202329" stroke-width="1"/>
+<line x1="815" y1="686" x2="1163" y2="686" stroke="#c5cbd2" stroke-width="1" stroke-dasharray="7 5"/>
+<text x="825" y="685" font-family="Noto Sans CJK SC, sans-serif" font-size="57" font-weight="700" text-anchor="start" fill="#202329">回声</text>
+<line x1="815" y1="771" x2="1163" y2="771" stroke="#c5cbd2" stroke-width="1" stroke-dasharray="7 5"/>
+<text x="825" y="770" font-family="Noto Sans CJK SC, sans-serif" font-size="57" font-weight="700" text-anchor="start" fill="#202329">Echo</text>
+<line x1="1180" y1="686" x2="1180" y2="771" stroke="#202329" stroke-width="1"/>
+<line x1="1173" y1="686" x2="1187" y2="686" stroke="#202329" stroke-width="1"/>
+<line x1="1173" y1="771" x2="1187" y2="771" stroke="#202329" stroke-width="1"/>
+<text x="350" y="892" font-family="Noto Sans CJK SC, sans-serif" font-size="18" font-weight="400" text-anchor="start" fill="#5c626b">行距看基线到基线；字形与行内间隔不变。</text>
+<line x1="44" y1="969" x2="1276" y2="969" stroke="#c5cbd2" stroke-width="1"/>
+<text x="44" y="1002" font-family="Noto Sans CJK SC, sans-serif" font-size="16" font-weight="400" text-anchor="start" fill="#5c626b">先定位哪一种空间出了问题，再调整对应变量；不是把所有字都压紧。</text>
+</svg>

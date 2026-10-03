@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1240" height="760" viewBox="0 0 1240 760" role="img"><title>出血、成品边界与内部留空</title><desc>外部延伸防止裁切后露白；内部留空保护必要信息。两者位于裁切线的不同侧。</desc>
+<rect width="100%" height="100%" fill="#fff"/>
+<text x="44" y="44" font-family="Noto Sans CJK SC, sans-serif" font-size="16" font-weight="400" text-anchor="start" fill="#5c626b">视觉关系  06</text>
+<text x="44" y="89" font-family="Noto Sans CJK SC, sans-serif" font-size="30" font-weight="700" text-anchor="start" fill="#202329">出血、成品边界与内部留空</text>
+<text x="44" y="123" font-family="Noto Sans CJK SC, sans-serif" font-size="17" font-weight="400" text-anchor="start" fill="#5c626b">外部延伸防止裁切后露白；内部留空保护必要信息。两者位于裁切线的不同侧。</text>
+<rect x="88" y="186" width="660" height="458" fill="#eef1f4" stroke="#c5cbd2" stroke-width="1"/>
+<rect x="116" y="214" width="604" height="402" fill="#ffffff" stroke="#202329" stroke-width="3"/>
+<rect x="176" y="274" width="484" height="282" fill="none" stroke="#5c626b" stroke-width="1.5" stroke-dasharray="10 7"/>
+<rect x="88" y="496" width="310" height="148" fill="#aab3be"/>
+<text x="201" y="341" font-family="Noto Sans CJK SC, sans-serif" font-size="42" font-weight="700" text-anchor="start" fill="#202329">重要标题</text>
+<text x="201" y="391" font-family="Noto Sans CJK SC, sans-serif" font-size="19" font-weight="400" text-anchor="start" fill="#5c626b">必要文字留在内部可靠区域</text>
+<line x1="745" y1="196" x2="799" y2="211" stroke="#202329" stroke-width="1.5"/>
+<line x1="799" y1="211" x2="803" y2="211" stroke="#202329" stroke-width="1.5"/>
+<text x="817" y="220" font-family="Noto Sans CJK SC, sans-serif" font-size="24" font-weight="700" text-anchor="start" fill="#202329">出血边界</text>
+<text x="817" y="255" font-family="Noto Sans CJK SC, sans-serif" font-size="18" font-weight="400" text-anchor="start" fill="#5c626b">背景／贴边图像延伸到这里</text>
+<line x1="720" y1="214" x2="799" y2="331" stroke="#202329" stroke-width="1.5"/>
+<line x1="799" y1="331" x2="803" y2="331" stroke="#202329" stroke-width="1.5"/>
+<text x="817" y="340" font-family="Noto Sans CJK SC, sans-serif" font-size="24" font-weight="700" text-anchor="start" fill="#202329">成品裁切线</text>
+<text x="817" y="375" font-family="Noto Sans CJK SC, sans-serif" font-size="18" font-weight="400" text-anchor="start" fill="#5c626b">切除外侧，多余图像不保留</text>
+<line x1="660" y1="274" x2="799" y2="461" stroke="#202329" stroke-width="1.5"/>
+<line x1="799" y1="461" x2="803" y2="461" stroke="#202329" stroke-width="1.5"/>
+<text x="817" y="470" font-family="Noto Sans CJK SC, sans-serif" font-size="24" font-weight="700" text-anchor="start" fill="#202329">内部安全范围</text>
+<text x="817" y="505" font-family="Noto Sans CJK SC, sans-serif" font-size="18" font-weight="400" text-anchor="start" fill="#5c626b">小字、标志等不紧贴裁边</text>
+<line x1="44" y1="699" x2="1196" y2="699" stroke="#c5cbd2" stroke-width="1"/>
+<text x="44" y="732" font-family="Noto Sans CJK SC, sans-serif" font-size="16" font-weight="400" text-anchor="start" fill="#5c626b">本图不规定毫米数。出血、安全距离、折线和装订余量应结合实际载体要求确定。</text>
+</svg>
